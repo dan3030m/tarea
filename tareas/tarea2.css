@@ -1,0 +1,43 @@
+#motta {
+  color: aqua;
+  font-size: 70px;
+  text-align: right
+  background-color: rgb(255, 255, 255);
+  text-shadow: 3px 3px black;
+}
+
+#y1 {
+  color:red;
+  font-size: 24px;
+  text-align: center;
+  background-color: yellow;
+}
+
+#y2 {
+  color: green;
+  font-size: 24px;
+  text-align: center;
+  background-color: pink 
+}
+
+.linea3y4 {
+  color: white;
+  font-size: 15px;
+  text-align: left;
+  background-color: black
+}
+
+.linea5y6 {
+  color: blue;
+  font-size: 16px;
+  text-align: left;
+  background-color:
+}
+
+#y3 {
+  color: negro;
+  font-size: 30px;
+  text-align: left;
+  background-color; 
+  text-shadow: 3px 3px black;
+}
