@@ -1,0 +1,21 @@
+#cerdo {
+  display: block;
+  margin-left: 120px;
+  margin-right: auto;
+  filter: drop-shadow(10px 10px blue);
+}
+
+#yaneth {
+  display: block;
+  margin-right: auto;
+  filter: drop-shadow(10px 10px pink);
+}
+#pascal {
+  display: block;
+  margin-left: auto;
+  filter: drop-shadow(10px 10px orange);
+}
+#hipopotama {
+  display: block;
+  filter: drop-shadow(10px 10px yellow);
+}
